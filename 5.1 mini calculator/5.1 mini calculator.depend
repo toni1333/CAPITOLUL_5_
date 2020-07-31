@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1596228723 source:i:\proiecte\5.1 mini calculator\main.cpp
+	<iostream>
+	"operatii.h"
+
+1596228527 i:\proiecte\5.1 mini calculator\operatii.h
+
+1596228648 source:i:\proiecte\5.1 mini calculator\operatii.cpp
+	"operatii.h"
+
