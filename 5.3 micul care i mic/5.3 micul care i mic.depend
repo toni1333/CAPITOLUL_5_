@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1573783772 source:d:\proiecte\5.3 micul care i mic\main.cpp
+	<iostream>
+	<cctype>
+
+1596291156 source:i:\proiecte\5.3 micul care i mic\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+
